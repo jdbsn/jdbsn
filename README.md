@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdbsn
 - 👀 I’m interested in tech, games, cars and aviation.
-- 🌱 I’m currently learning JavaScript, MYSql and React.
+- 🌱 I’m currently learning JavaScript, MYSql and Bootstrap.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
